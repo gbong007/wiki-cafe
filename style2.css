@@ -1,5 +1,5 @@
 :root {
-  --font-family: '페이퍼로지' 'Arial', sans-serif;
+  --font-family: 'Arial', sans-serif;
   --color-primary: #8d321b;
   --color-secondary: #666;
   --color-background: #f9f9f9;
@@ -256,3 +256,4 @@ footer {
         margin-top: 0;
     }
 }
+
